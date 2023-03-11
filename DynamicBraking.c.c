@@ -58,7 +58,6 @@ digitalWrite(in2 , LOW);
 delay(25);
 }
 if((distanceCm>=25))
-XVI
  {
 analogWrite(enA, 255);
 delay(25);
